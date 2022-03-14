@@ -161,8 +161,15 @@
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
           "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg"
-        }
+        },
+        {
+          "titlename": "Dying Light: Enchanced Edition",
+          "titleimage": "Dying Light",
+          "titleicon": "https://cdn.discordapp.com/attachments/930599143041286166/953059946256289872/Discord_DL_Icon_copy_1042x1042.png",
+          "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png"
+         }
       ]
     }
   ]
-}         
+}      
+           
